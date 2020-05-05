@@ -1,2 +1,2 @@
 # Official-Addictive-Media-Website
-First official project
+This is the a website for a media company specialized in videos, web designs and web development
